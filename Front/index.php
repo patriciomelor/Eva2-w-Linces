@@ -22,6 +22,7 @@
         <section>FAQ</section><!--Nathy-->
         <section>Contacto</section> <!--Pato-->
         
+Cambios de ejemplo
     </main>
 </body>
 </html>
