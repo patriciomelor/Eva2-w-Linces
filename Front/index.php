@@ -17,7 +17,7 @@
     <main>
         <!--Section Nosotros-->
         <section>
-          <?php include 'component/'; ?><!--Caro-->  
+          <?php include 'component/nosotros'; ?><!--Caro-->  
         </section>
          <!--END Section Caro-->
          <!--Section Dany-->
