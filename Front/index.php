@@ -19,16 +19,11 @@
         <section>
           <?php include 'component/nosotros'; ?><!--Caro-->  
         </section>
-         <!--END Section Caro-->
-         <!--Section Dany-->
-        <Section>
-          <?php include 'component/'; ?><!--Dany-->
-        </Section>
-        <!--End Section Dany-->
-          <!--Section Naty-->
-          <Section>
-          <?php include 'component/'; ?><!--Naty-->
-        </Section>
+        <!--END Section Caro-->
+        <!--Section Dany-->
+        
+       
+
         <!--End Section Naty-->
         <!--...--->
         <!--Empty-->
