@@ -24,19 +24,16 @@
     <div class="col mb-3">
       <h5>Contacto:</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="tel:950186583" class="nav-link p-0 text-muted">+56 9 5018 6583</a></li>
-        <li class="nav-item mb-2"><a href="wa.link/950186583" class="nav-link p-0 text-muted">Contactanos Al WhatsApp</a></li>
+        <li class="nav-item mb-2"><a href="tel:950186583" class="nav-link p-0 text-muted"><i class="bi bi-telephone"></i> +56 9 5018 6583</a></li>
+        <li class="nav-item mb-2"><a href="wa.link/950186583" class="btn btn-success"><i class="bi bi-whatsapp"></i> Contactanos Al WhatsApp</a></li>
       </ul>
     </div>
 
     <div class="col mb-3">
       <h5>Redes Sociales</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="https://www.facebook.com/tuparcelaenelsurdechile?mibextid=ZbWKwL" class="nav-link p-0 text-muted"><i class="fa fa-facebook"></i></a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted" disabled>Instagram</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
+        <li class="nav-item mb-2"><a href="https://www.facebook.com/tuparcelaenelsurdechile?mibextid=ZbWKwL" class="nav-link p-0 text-muted"><i class="bi bi-facebook"></i> Facebook</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted" disabled><i class="bi bi-instagram"></i> Instagram</a></li>
       </ul>
     </div>
   </footer>
