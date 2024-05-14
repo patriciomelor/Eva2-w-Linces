@@ -19,6 +19,9 @@
         <section>
           <?php include 'component/nosotros.php'; ?><!--Caro-->  
         </section>
+        <section>
+          <?php include 'component/solo_terrenos.php'; ?><!--Caro-->  
+        </section>
         <!--END Section Caro-->
         <!--Section Dany-->
         
