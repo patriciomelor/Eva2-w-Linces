@@ -4,6 +4,7 @@
             <h1 class="text-center">Solo terrenos</h1>
         </div>
         <hr>
+        <!-- Primera tarjeta -->
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
         <div class="row g-0">
             <div class="col-md-4">
@@ -18,6 +19,7 @@
             </div>
         </div>
         </div>
+        <!-- Segunda tarjeta -->
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
         <div class="row g-0">
             <div class="col-md-4">
