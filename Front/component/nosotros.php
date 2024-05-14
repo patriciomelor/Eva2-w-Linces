@@ -1,16 +1,16 @@
 <div class="flex-container">
-    <div class="row justify-content-center mb-5" >
+    <div class="row justify-content-center" >
         <div>
-            <h1 class="text-center mb-3 mt-6">¿Quiénes somos?</h1>
+            <h1 class="text-center mt-5 mb-3">¿Quiénes somos?</h1>
         </div>        
         <hr>
-        <div class="text-center mt-3">
+        <div class="text-center mb-5">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
         </div>
-        <div class="text-center mt-6">
+        <div class="text-center" style="max-width: 1200px;">
             <img src="https://realecostate.blob.core.windows.net/reveca/media/uploads/blog/posts/ccaf9c54-d4a7-4672-87b8-1329db2bebe4.jpg" class="img-fluid rounded-start" alt="...">>
         </div>        
-        <div class="text-center">
+        <div class="text-center mt-5 mb-5">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit facilis distinctio labore temporibus praesentium, exercitationem nemo! A cum dolor voluptatem omnis corrupti autem, impedit nulla distinctio illo eaque recusandae dolorum!</p>
         </div>    

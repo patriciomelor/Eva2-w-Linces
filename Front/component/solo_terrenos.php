@@ -1,9 +1,14 @@
+<!-- Página de referencia: https://compratuparcela.cl/regiones/v-region/ -->
+
 <div class="flex-container">
     <div class="row justify-content-center">
         <div>
-            <h1 class="text-center">Solo terrenos</h1>
+            <h1 class="text-center mt-5 mb-3">Solo terrenos</h1>
         </div>
         <hr>
+        <div class="text-center mb-5">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus dolorum distinctio sed adipisci enim. Natus officia accusantium corrupti est, ut, iure voluptatibus asperna</p>
+        </div>
         <!-- Primera tarjeta -->
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
@@ -12,7 +17,7 @@
                 </div>
                 <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">Vistas de Linares</h5>
+                    <h5 class="card-title">Hacienda Don Aurelio </h5>
                     <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fuga suscipit et voluptate aliquam saepe? Repellendus eaque assumenda ducimus illum reiciendis inventore eum. Corrupti, quas.</p>
                     <p class="card-text"><small class="text-body-secondary">Región del Maule</small></p>
                 </div>
