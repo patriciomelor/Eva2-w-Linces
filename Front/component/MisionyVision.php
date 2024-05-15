@@ -8,7 +8,7 @@
             <h3>Mision</h3>
             <p>Nuestra misión en terrasol Parcelas es ofrecer a nuestros clientes oportunidades unicas para invertir en la naturaleza y tranquilidad.
                 estamos muy comprometidos con el enfoque innovador y centrado en el cliente,ofrecemos un estilo de vida totalmente rodeado de naturaleza y con las comodidades
-                necesarias para vivir en armonia </p>
+                necesarias para vivir en armonia. </p>
         </div>
         <div class="text-center" style="max-width: 1200px;">
             <img src=src/media/imagenmision.jpeg>
