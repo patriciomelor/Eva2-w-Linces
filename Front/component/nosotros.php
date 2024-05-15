@@ -1,20 +1,19 @@
-<div class="container">
-    <div class="row justify-content-center">
-        <div class=text-align>
-            <h1 >¿Quiénes somos?</h1>
-        </div>
+<div class="flex-container"><
+    <div class="row justify-content-center" >
+        <div>
+            <h1 class="text-center mt-5 mb-3">¿Quiénes somos?</h1>
+        </div>        
         <hr>
-        <br><br>
-        <div>
+        <div class="text-center mb-5">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ut hic quidem veritatis distinctio unde molestiae assumenda in atque aperiam, corporis, quae iure maxime officiis sint a mollitia sunt. Aliquid! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolore eveniet sint? Est voluptatem inventore a sapiente ea, eveniet accusamus laboriosam nam molestiae, nulla quam deleniti doloribus distinctio, id tempora?</p>
         </div>
-        <img src="../src/media/ImagenParcela.jpeg" alt="">
-        <br><br>
-        <div>
+        <div class="text-center" style="max-width: 1200px;">
+            <img src=src/media/ImagenParcelaNosotros.jpeg>
+        </div>        
+        <div class="text-center mt-5 mb-5">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit facilis distinctio labore temporibus praesentium, exercitationem nemo! A cum dolor voluptatem omnis corrupti autem, impedit nulla distinctio illo eaque recusandae dolorum!</p>
         </div>    
     </div>
-        <br><br><br><br><br><br>
 </div>
 

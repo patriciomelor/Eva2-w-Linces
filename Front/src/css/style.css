@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+    font-size: 55px !important;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+p {
+    font-size: 18px !important;
+    color: rgb(45, 83, 55);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+img {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card {
+    padding-left: 1% !important;
+    padding-right: 1% !important;
+}
