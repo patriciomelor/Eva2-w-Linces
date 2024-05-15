@@ -2,7 +2,7 @@
     <div class="row justify-content-center">
         <div>
             <h1 class="text-center mt-5 mb-3">NUESTRAS PARCELAS</h1>
-            <small class="text-muted">Selecciona la parcela de tu preferencia</small>
+            <strong class="text-muted">Selecciona la parcela de tu preferencia</strong>
         </div>
         <hr>
         <div class="text-center mb-5">
@@ -56,7 +56,7 @@
 <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=<img src=src/media/Parcelasanjavier.jpeg>
+                <img src=<img src="src/media/Parcelasanjavier.jpeg">
                 <div class="col-md-8">
                 <div class="card-body">
                     <h1 class="card-title">Parcela San Javier</h1>
