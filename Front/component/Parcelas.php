@@ -9,12 +9,8 @@
             <p></p>
         </div>
         <!-- Parcelas Frutillar-->
-        <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
-            <div class="row g-0">
-                <div class="col-md-4">
-                <img src= "src/media/Parcelafrutillar.jpeg">
-                </div>
-                <div class="col-md-8">
+        <div class="card m-3 bg-img" id="bg-img" >
+                <div class="col-md-8 text-center">
                 <div class="card-body">
                     <h1 class="card-title">Parcela Frutillar</h1>
                     <p class="card-text">Idílica ubicación, calidad de vida aqui encontraras parcelas con un tamaño promedio de 5000 metros cuadrados (Aproximadamente 0.5 hectáreas) el espacio suficiente para construir la casa que tanto esperaste.</p>
@@ -27,7 +23,7 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src="src/media/Parcelapurranque.jpeg">
+                <img src="src/media/Parcelapurranque.jpg" width="100%">
                 </div>
                 <div class="col-md-8">
                 <div class="card-body">
@@ -42,7 +38,8 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src="src/media/Parcelaosorno.jpeg">
+                <img src="src/media/Parcelaosorno.jpeg"width="100%">
+</div>
                 <div class="col-md-8">
                 <div class="card-body">
                     <h1 class="card-title">Parcela Osorno</h1>
@@ -56,7 +53,8 @@
 <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src="src/media/Parcelasanjavier.jpeg">
+                <img src="src/media/Parcelasanjavier.jpg"width="100%">
+</div>
                 <div class="col-md-8">
                 <div class="card-body">
                     <h1 class="card-title">Parcela San Javier</h1>

@@ -24,3 +24,11 @@ img {
     padding-left: 1% !important;
     padding-right: 1% !important;
 }
+.bg-img{
+    background-image: url(src/media/Parcelafrutillar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 540px;
+    color: white !important;
+    font-weight: 600;
+    font-style: normal;}
