@@ -25,14 +25,9 @@
         <!--END Section Caro-->
         <!--Section Dany-->
         <Section>
-          <?php include 'component/'; ?><!--Dany-->
+          <?php include 'component/MisionyVision.php'; ?><!--Dany-->
         </Section>
         <!--End Section Dany-->
-          <!--Section Naty-->
-          <Section>
-          <?php include 'component/'; ?><!--Naty-->
-        </Section>
-        <!--End Section Naty-->
         <!--...--->
         <!--Empty-->
         <!--...--->
