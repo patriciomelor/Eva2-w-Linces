@@ -2,12 +2,10 @@
     <div class="row justify-content-center">
         <div>
             <h1 class="text-center mt-5 mb-3">NUESTRAS PARCELAS</h1>
-            <strong class="text-muted">Selecciona la parcela de tu preferencia</strong>
+            <h3 class="text-muted">Selecciona la parcela de tu preferencia</h3>
         </div>
         <hr>
-        <div class="text-center mb-5">
-            <p></p>
-        </div>
+        
         <!-- Parcelas Frutillar-->
         <div class="card m-3 bg-img" id="bg-img" >
                 <div class="col-md-8 text-center">
@@ -39,31 +37,30 @@
             <div class="row g-0">
                 <div class="col-md-4">
                 <img src="src/media/Parcelaosorno.jpeg"width="100%">
+        </div>
+        <div class="col-md-8">
+         <div class="card-body">
+            <h1 class="card-title">Parcela Osorno</h1>
+            <p class="card-text">Un lugar unico acogedor cercano a lugares donde puedes realizar actividades comunitarias y eventos, una cultura distinta que hace un lugar unico para vivir.</p>
+            <p class="card-text"><small class="text-body-secondary">Región del Biobío</small></p>
+         </div>
+        </div>
+    </div>
 </div>
-                <div class="col-md-8">
-                <div class="card-body">
-                    <h1 class="card-title">Parcela Osorno</h1>
-                    <p class="card-text">Un lugar unico acogedor cercano a lugares donde puedes realizar actividades comunitarias y eventos, una cultura distinta que hace un lugar unico para vivir.</p>
-                    <p class="card-text"><small class="text-body-secondary">Región del Biobío</small></p>
-                </div>
-                </div>
-            </div>
-                </div>
  <!-- Parcelas San Javier-->
 <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src="src/media/Parcelasanjavier.jpg"width="100%">
-</div>
-                <div class="col-md-8">
+                    <img src="src/media/Parcelasanjavier.jpg"width="100%">
+                </div>
+            <div class="col-md-8">
                 <div class="card-body">
                     <h1 class="card-title">Parcela San Javier</h1>
                     <p class="card-text">Colinas ondulantes hasta bosques frondosos y campos verdes, cada parcela ofrece un paisaje relajante, si busca escapar de la ciudad este es el lugar indicado.
                     <p class="card-text"><small class="text-body-secondary">Región del Maule</small></p>
                 </div>
-
-                </div>
             </div>
+        </div>
         </div>                
     </div>
 </div>
