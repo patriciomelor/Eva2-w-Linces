@@ -20,12 +20,15 @@
           <?php include 'component/nosotros.php'; ?><!--Caro-->  
         </section>
         <section>
+          <?php include 'component/MisionyVision.php'; ?><!--Caro-->  
+        </section>
+        <section>
           <?php include 'component/solo_terrenos.php'; ?><!--Caro-->  
         </section>
         <!--END Section Caro-->
         <!--Section Dany-->
         <Section>
-          <?php include 'component/'; ?><!--Dany-->
+          <?php include 'component/Parcelas.php'; ?><!--Dany-->
         </Section>
         <!--End Section Dany-->
           <!--Section Naty-->

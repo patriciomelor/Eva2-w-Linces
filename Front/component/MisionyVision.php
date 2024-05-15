@@ -11,7 +11,7 @@
                 necesarias para vivir en armonia </p>
         </div>
         <div class="text-center" style="max-width: 1200px;">
-            <img src=src/media/ImagenParcela.jpeg>
+            <img src=src/media/ImagenMisionyVision.jpg width="100%">
         </div>        
         <div class="text-center mt-5 mb-5">
         <h3>Vision</h3>
