@@ -2,7 +2,7 @@
     <div class="row justify-content-center">
         <div>
             <h1 class="text-center mt-5 mb-3">NUESTRAS PARCELAS</h1>
-            <p class="card-text">Selecciona la parcela de tu preferencia</p>
+            < class="card-text">Selecciona la parcela de tu preferencia</p>
         </div>
         <hr>
         <div class="text-center mb-5">
