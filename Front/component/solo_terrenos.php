@@ -1,6 +1,6 @@
 <!-- Página de referencia: https://compratuparcela.cl/regiones/v-region/ -->
 
-<div class="flex-container">
+<div class="flex-container mt-5 mb-5">
     <div class="row justify-content-center">
         <div>
             <h1 class="text-center mt-5 mb-3">Solo terrenos</h1>
@@ -13,28 +13,29 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src= src/media/HaciendaDonAurelio.jpeg class="img-fluid rounded-start" alt="...">
+                <img src= src/media/soloTerrenos/HaciendaDonAurelio.jpeg class="img-fluid rounded-start p-4" alt="...">
                 </div>
-                <div class="card-body col-md-8">
-                    <h5 class="card-title">Hacienda Don Aurelio</h5>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fuga suscipit et voluptate aliquam saepe? Repellendus eaque assumenda ducimus illum reiciendis inventore eum. Corrupti, quas.</p>
+                <div class="card-body col-md-8 p-4">
+                    <h5 class="card-title ">Hacienda Don Aurelio</h5>
                     <p class="card-text"><small class="text-body-secondary">Región del Maule</small></p>
-                </div>
-                
+                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
+                </div>                
             </div>
         </div>
         <!-- Segunda tarjeta - Vista hermosa Coronel-->
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/VistaHermosaCoronel.jpeg class="img-fluid rounded-start" alt="...">
+                <img src=src/media/soloTerrenos/VistaHermosaCoronel.jpeg class="img-fluid rounded-start p-4" alt="...">
                 </div>
-                <div class="col-md-8">
-                <div class="card-body">
+                <div class="card-body col-md-8 p-4">
                     <h5 class="card-title">Vista hermosa Coronel</h5>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fuga suscipit et voluptate aliquam saepe? Repellendus eaque assumenda ducimus illum reiciendis inventore eum. Corrupti, quas.</p>
                     <p class="card-text"><small class="text-body-secondary">Región del Biobío</small></p>
-                </div>
+                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
                 </div>
             </div>
         </div>
@@ -42,14 +43,14 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/LosAlmendrosDeMulchen.jpeg class="img-fluid rounded-start" alt="...">
+                <img src=src/media/soloTerrenos/LosAlmendrosDeMulchen.jpeg class="img-fluid rounded-start p-4" alt="...">
                 </div>
-                <div class="col-md-8">
-                <div class="card-body">
+                <div class="card-body col-md-8 p-4">
                     <h5 class="card-title">Los Almendros de Mulchen</h5>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fuga suscipit et voluptate aliquam saepe? Repellendus eaque assumenda ducimus illum reiciendis inventore eum. Corrupti, quas.</p>
                     <p class="card-text"><small class="text-body-secondary">Región del Biobío</small></p>
-                </div>
+                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
                 </div>
             </div>
         </div>
@@ -57,14 +58,14 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/ValleGrandeCuracautin.jpeg class="img-fluid rounded-start" alt="...">
+                <img src=src/media/soloTerrenos/ValleGrandeCuracautin.jpeg class="img-fluid rounded-start p-4" alt="...">
                 </div>
-                <div class="col-md-8">
-                <div class="card-body">
+                <div class="card-body col-md-8 p-4">
                     <h5 class="card-title">Valle grande Curacautín</h5>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fuga suscipit et voluptate aliquam saepe? Repellendus eaque assumenda ducimus illum reiciendis inventore eum. Corrupti, quas.</p>
                     <p class="card-text"><small class="text-body-secondary">Región de la Araucanía</small></p>
-                </div>
+                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
                 </div>
             </div>
         </div>
@@ -72,14 +73,14 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/ViveNeltume.jpeg class="img-fluid rounded-start" alt="...">
+                <img src=src/media/soloTerrenos/ViveNeltume.jpeg class="img-fluid rounded-start p-4" alt="...">
                 </div>
-                <div class="col-md-8">
-                <div class="card-body">
+                <div class="card-body col-md-8 p-4">
                     <h5 class="card-title">Vive Neltume</h5>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fuga suscipit et voluptate aliquam saepe? Repellendus eaque assumenda ducimus illum reiciendis inventore eum. Corrupti, quas.</p>
                     <p class="card-text"><small class="text-body-secondary">Región de los Ríos</small></p>
-                </div>
+                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
                 </div>
             </div>
         </div>
@@ -87,14 +88,15 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/AltoCancura.jpeg class="img-fluid rounded-start" alt="...">
+                <img src=src/media/soloTerrenos/AltoCancura.jpeg class="img-fluid rounded-start p-4" alt="...">
                 </div>
-                <div class="col-md-8">
-                <div class="card-body">
+                <div class="card-body col-md-8 p-4">
                     <h5 class="card-title">Alto Cancura</h5>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fuga suscipit et voluptate aliquam saepe? Repellendus eaque assumenda ducimus illum reiciendis inventore eum. Corrupti, quas.</p>
                     <p class="card-text"><small class="text-body-secondary">Región de los Lagos</small></p>
-                </div>
+                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
+
                 </div>
             </div>
         </div>                
