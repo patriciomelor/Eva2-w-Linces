@@ -12,7 +12,7 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=  <img src=src/media/Parcelafrutillar.jpeg>
+                <img src="src/media/Parcelafrutillar.jpg">
                 </div>
                 <div class="col-md-8">
                 <div class="card-body">
@@ -27,7 +27,7 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=<img src=src/media/Parcelapurranque.jpeg>
+                <img src="src/media/Parcelapurranque.jpeg">
                 </div>
                 <div class="col-md-8">
                 <div class="card-body">
