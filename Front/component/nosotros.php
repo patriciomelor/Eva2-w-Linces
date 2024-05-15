@@ -1,4 +1,4 @@
-<div class="flex-container">
+<div class="flex-container"><
     <div class="row justify-content-center" >
         <div>
             <h1 class="text-center mt-5 mb-3">¿Quiénes somos?</h1>
@@ -8,7 +8,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
         </div>
         <div class="text-center" style="max-width: 1200px;">
-            <img src="https://realecostate.blob.core.windows.net/reveca/media/uploads/blog/posts/ccaf9c54-d4a7-4672-87b8-1329db2bebe4.jpg" class="img-fluid rounded-start" alt="...">>
+            <img src=src/media/ImagenParcelaNosotros.jpeg>
         </div>        
         <div class="text-center mt-5 mb-5">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
