@@ -1,11 +1,40 @@
 <div class="container">
     <div class="row justify-content-center">
+        <div class="container">
+            <div class="row">
+                <h1 class="text-center">Contactanos</h1>
+                <hr style="width:50%;padding: auto auto;">
+            </div>
+        </div>
         <div class="col-4">
             <form action="POST" class="form-control">
                 <div class="mb-3">
                     <label for="Nombre" class="form-label">Nombre</label>
-                    <input type="text" class="form-control" id="Nombre" placeholder="Juan Perez">
+                    <input type="text" class="form-control" id="Nombre" placeholder="Juan ">
                 </div>
+                <div class="mb-3">
+                    <label for="Apellido" class="form-label">Apellido</label>
+                    <input type="text" class="form-control" id="Apellido" placeholder="Perez">
+                </div>
+                <div class="mb-3">
+                    <label for="Correo" class="form-label">Correo</label>
+                    <input type="email" class="form-control" id="Correo" placeholder="JuanPerez@correo.cl">
+                </div>
+                <div class="mb-3">
+                    <label for="Servicio" class="form-label">Correo</label>
+                    <select class="form-select" id="Servicios" aria-label="Servicios">
+                        <option selected disabled>Seleccione una opcion</option>
+                        <option value="1">Parcelas</option>
+                        <option value="2">Casas Con Parcelas</option>
+                        <option value="3">Solo Terreno</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="Mensaje" class="form-label">Mensaje</label>
+                    <textarea class="form-control" id="Mensaje" rows="3"></textarea>
+                </div>
+                <button type="button" class="btn btn-outline-success"><i class="bi bi-send"></i> Enviar</button>
+                <button type="reset" class="btn btn-secondary">Limpiar</button>
             </form>
         </div>
         <div class="col-4">

@@ -20,15 +20,18 @@
           <?php include 'component/nosotros.php'; ?><!--Caro-->  
         </section>
         <section>
-          <?php include 'component/soloTerrenos.php'; ?><!--Caro-->  
+          <?php include 'component/soloTerrenos.php'; ?><!--Caro-->    
         </section>
         <!--END Section Caro-->
         <!--Section Dany-->
-        
-       
+        <Section>
+          <?php include 'component/MisionyVision.php'; ?><!--Dany-->
+        </Section>
+        <!--End Section Dany-->
+        <section>
+        <?php include 'component/Parcelas.php'; ?><!--Dany-->
 
-        <!--End Section Naty-->
-        <!--...--->
+        </section>
         <!--Empty-->
         <!--...--->
         <!--Contacto-->

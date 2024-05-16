@@ -1,7 +1,7 @@
-# Eva2-w-Linces
-# Proyecto Frontend & Backend Sec71-2024T1
 
-Este es un proyecto en php para front y para back, conexion a bd MySQL
+# Proyecto Backend Sec71-2024T1
+
+Este es un proyecto en php, conexion a bd MySQL
 
 
 ## Authors
@@ -20,8 +20,4 @@ Este es un proyecto en php para front y para back, conexion a bd MySQL
 ## Frontend
 
 - [Parte Front](https://github.com/patriciomelor/Eva2-w-Linces/tree/main/Front)
-  
-- ## BackEnd
-
-- [Parte Front](https://github.com/patriciomelor/Eva2-w-Linces/tree/main/Back)
 
