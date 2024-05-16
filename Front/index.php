@@ -23,7 +23,7 @@
           <?php include 'component/MisionyVision.php'; ?><!--Caro-->  
         </section>
         <section id="soloterreno">
-          <?php include 'component/solo_terrenos.php'; ?><!--Caro-->  
+          <?php include 'component/soloTerrenos.php'; ?><!--Caro-->  
         </section>
         <!--END Section Caro-->
         <section id="parcelas">
