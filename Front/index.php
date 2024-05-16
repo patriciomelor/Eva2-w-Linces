@@ -16,22 +16,21 @@
     <!--Fin Hero-->
     <main>
         <!--Section Nosotros-->
-        <section id="parcelas">
+        <section id="nosotros">
           <?php include 'component/nosotros.php'; ?><!--Caro-->  
         </section>
-        <section>
-          <?php include 'component/soloTerrenos.php'; ?><!--Caro-->    
+        <section id="Mision">
+          <?php include 'component/MisionyVision.php'; ?><!--Caro-->  
+        </section>
+        <section id="soloterreno">
+          <?php include 'component/soloTerrenos.php'; ?><!--Caro-->  
         </section>
         <!--END Section Caro-->
-        <section>
+        <section id="parcelas">
         <?php include 'component/Parcelas.php'; ?><!--Dany-->
-
         </section>
-        <!--Empty-->
-        <!--...--->
         <!--Contacto-->
-
-        <section>
+        <section id="contacto">
             <?php include 'component/contact.php'; ?>
         </section> <!--Pato-->
         <!--END Contacto--> 
