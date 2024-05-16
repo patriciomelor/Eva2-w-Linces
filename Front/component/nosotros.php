@@ -1,7 +1,7 @@
 <div class="flex-container">
     <div class="row justify-content-center" >
         <div>
-            <h1 class="text-center mt-5 mb-3">¿Quiénes somos?</h1>
+            <h1 class="text-center mt-5 mb-3">¿QUIÉNES SOMOS?</h1>
         </div>        
         <hr>
         <div class="text-center mb-5">

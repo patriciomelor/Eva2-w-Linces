@@ -9,6 +9,16 @@ h1 {
     font-style: normal;
 }
 
+h2 {
+    color: black;
+    font-size: 35px !important;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
 p {
     font-size: 18px !important;
     color: rgb(45, 83, 55);
@@ -19,6 +29,8 @@ p {
 img {
     margin-left: 20px;
     margin-right: 20px;
+    border-radius: 10px;
+
 }
 
 .card {
@@ -36,7 +48,7 @@ img {
 .bg-img{
     background-image: url(src/media/Parcelafrutillar.jpg);
 }
-    
+
 #bg-img{
     background-image: url("src/media/Parcelafrutillar.jpg");
     background-repeat: no-repeat;

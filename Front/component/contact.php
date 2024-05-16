@@ -2,7 +2,7 @@
     <div class="row justify-content-center">
         <div class="container">
             <div class="row">
-                <h1 class="text-center">Contactanos</h1>
+                <h1 class="text-center">CONTÁCTANOS</h1>
                 <hr style="width:50%;padding: auto auto;">
             </div>
         </div>
