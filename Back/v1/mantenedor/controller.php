@@ -1,117 +1,65 @@
 <?php
+// controller.php
+
+include_once 'conexion.php';
 
 class Controlador
 {
-    private $lista;
+    private $conexion;
 
     public function __construct()
     {
-        $this->lista = [];
+        $this->conexion = new Conexion();
     }
 
     public function getAll()
     {
-        $con = new Conexion();
+        // Obtener una conexión a la base de datos
+        $conn = $this->conexion->getConnection();
+
+        // Consulta SQL para obtener todos los datos del mantenedor
         $sql = "SELECT id, nombre, activo FROM mantenedor;";
-        $rs = mysqli_query($con->getConnection(), $sql);
-        if ($rs) {
-            while ($tupla = mysqli_fetch_assoc($rs)) {
-                $tupla['activo'] = $tupla['activo'] == 1 ? true : false;
-                array_push($this->lista, $tupla);
+
+        // Ejecutar la consulta
+        $result = mysqli_query($conn, $sql);
+
+        // Verificar si la consulta fue exitosa
+        if ($result) {
+            // Array para almacenar los datos del mantenedor
+            $mantenedor = array();
+
+            // Recorrer los resultados y almacenarlos en el array
+            while ($row = mysqli_fetch_assoc($result)) {
+                $row['activo'] = $row['activo'] == 1 ? true : false;
+                $mantenedor[] = $row;
             }
-            mysqli_free_result($rs);
+
+            // Liberar el resultado
+            mysqli_free_result($result);
+
+            // Cerrar la conexión
+            $this->conexion->closeConnection();
+
+            // Devolver los datos del mantenedor
+            return $mantenedor;
+        } else {
+            // Si la consulta falla, mostrar un mensaje de error y cerrar la conexión
+            echo "Error: " . mysqli_error($conn);
+            $this->conexion->closeConnection();
+            return null;
         }
-        $con->closeConnection();
-        return $this->lista;
     }
 
-    public function postNuevo($_nuevoObjeto)
-    {
-        $con = new Conexion();
-        //var_dump($_nuevoObjeto->nombre);
-        $id = count($this->getAll()) + 1;
-        $sql = "INSERT INTO mantenedor (id, nombre, activo) VALUES ($id,'$_nuevoObjeto->nombre', true)";
-        // echo $sql;
-        //ejecutar sql
-        $rs = [];
-        try {
-            $rs = mysqli_query($con->getConnection(), $sql);
-        } catch (\Throwable $th) {
-            $rs = null;
-        }
-        // var_dump($rs);
-        //cerar conexion
-        $con->closeConnection();
-        //rs -> resultado de la ejecucion de la query
-        if ($rs) {
-            return true;
-        }
-        return null;
-    }
-
-    public function patchEncenderApagar($_id, $_accion)
-    {
-        $con = new Conexion();
-        $sql = "UPDATE mantenedor SET activo = $_accion WHERE id = $_id;";
-        // echo $sql;
-        //ejecutar sql
-        $rs = [];
-        try {
-            $rs = mysqli_query($con->getConnection(), $sql);
-        } catch (\Throwable $th) {
-            $rs = null;
-        }
-        // var_dump($rs);
-        //cerar conexion
-        $con->closeConnection();
-        //rs -> resultado de la ejecucion de la query
-        if ($rs) {
-            return true;
-        }
-        return null;
-    }
-
-    public function putNombreById($_nombre, $_id)
-    {
-        $con = new Conexion();
-        $sql = "UPDATE mantenedor SET nombre = '$_nombre' WHERE id = $_id;";
-        // echo $sql;
-        //ejecutar sql
-        $rs = [];
-        try {
-            $rs = mysqli_query($con->getConnection(), $sql);
-        } catch (\Throwable $th) {
-            $rs = null;
-        }
-        // var_dump($rs);
-        //cerar conexion
-        $con->closeConnection();
-        //rs -> resultado de la ejecucion de la query
-        if ($rs) {
-            return true;
-        }
-        return null;
-    }
-
-    public function deleteById($_id)
-    {
-        $con = new Conexion();
-        $sql = "DELETE FROM mantenedor WHERE id = $_id;";
-        //echo $sql;
-        //ejecutar sql
-        $rs = [];
-        try {
-            $rs = mysqli_query($con->getConnection(), $sql);
-        } catch (\Throwable $th) {
-            $rs = null;
-        }
-        // var_dump($rs);
-        //cerar conexion
-        $con->closeConnection();
-        //rs -> resultado de la ejecucion de la query
-        if ($rs) {
-            return true;
-        }
-        return null;
-    }
+    // Métodos adicionales para insertar, actualizar, eliminar datos, etc.
 }
+
+// Ejemplo de uso:
+// Crear una instancia del controlador
+$controlador = new Controlador();
+
+// Llamar al método getAll para obtener todos los datos del mantenedor
+$datos = $controlador->getAll();
+
+// Imprimir los datos obtenidos
+var_dump($datos);
+?>

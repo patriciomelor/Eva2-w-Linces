@@ -11,13 +11,14 @@
                 necesarias para vivir en armonia </p>
         </div>
         <div class="text-center" style="max-width: 1200px;">
-            <img src=src/media/ImagenMisionyVision.jpg width="100%">
+            <img src=src/media/imagenmision.jpeg>
         </div>        
         <div class="text-center mt-5 mb-5">
         <h3>Vision</h3>
             <p>Nuestra visión es ser reconocidos como lideres en el mercado inmobiliario, destacandonos por nuestro compromiso con la 
                 accesibilidad financiera y la transparencia a cada uno de nuestros clientes. Nos interesa ser confiables y transparentes
                  en entregar oportunidades realistas</p>
+                  <img src=src/media/Imagenvision.jpg>
         </div>    
     </div>
 </div>

@@ -1,5 +1,5 @@
 <!DOCTYPE html><!--Pato-->
-<html lang="en">
+<html lang="Es">
 <head>
     <?php include 'component/header.php'; ?>
 </head>
@@ -16,7 +16,7 @@
     <!--Fin Hero-->
     <main>
         <!--Section Nosotros-->
-        <section>
+        <section id="parcelas">
           <?php include 'component/nosotros.php'; ?><!--Caro-->  
         </section>
         <section>
@@ -26,17 +26,10 @@
           <?php include 'component/solo_terrenos.php'; ?><!--Caro-->  
         </section>
         <!--END Section Caro-->
-        <!--Section Dany-->
-        <Section>
-          <?php include 'component/Parcelas.php'; ?><!--Dany-->
-        </Section>
-        <!--End Section Dany-->
-          <!--Section Naty-->
-          <Section>
-          <?php include 'component/'; ?><!--Naty-->
-        </Section>
-        <!--End Section Naty-->
-        <!--...--->
+        <section>
+        <?php include 'component/Parcelas.php'; ?><!--Dany-->
+
+        </section>
         <!--Empty-->
         <!--...--->
         <!--Contacto-->

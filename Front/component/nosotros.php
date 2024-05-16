@@ -1,4 +1,4 @@
-<div class="flex-container"><
+<div class="flex-container">
     <div class="row justify-content-center" >
         <div>
             <h1 class="text-center mt-5 mb-3">¿Quiénes somos?</h1>
