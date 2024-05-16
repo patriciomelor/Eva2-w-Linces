@@ -53,3 +53,11 @@ nav li ul {
     border: 1px grey;
     box-shadow: 2px;
 }
+
+.card-img-left {
+    height: 40%;
+}
+
+#img_nosotros {
+    width: 95%;
+}

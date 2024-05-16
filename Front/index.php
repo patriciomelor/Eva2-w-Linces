@@ -29,6 +29,12 @@
         <section id="parcelas">
         <?php include 'component/Parcelas.php'; ?><!--Dany-->
         </section>
+        <section id="casa_en_parcela">
+        <?php include 'component/casa_en_parcela.php'; ?><!--Nathy-->
+        </section>
+        <section id="preguntas_frecuentes">
+        <?php include 'component/FAQs.php'; ?><!--Nathy-->
+        </section>
         <!--Contacto-->
         <section id="contacto">
             <?php include 'component/contact.php'; ?>
