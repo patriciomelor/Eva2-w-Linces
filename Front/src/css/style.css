@@ -53,3 +53,13 @@ nav li ul {
     border: 1px grey;
     box-shadow: 2px;
 }
+
+h2 {
+    color: black;
+    font-size: 35px !important;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
