@@ -12,8 +12,8 @@
         <!-- Primera tarjeta - Hacienda Don Aurelio -->
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
-                <div class="col-md-4">
-                <img src= src/media/soloTerrenos/HaciendaDonAurelio.jpeg class="img-fluid rounded-start p-4" alt="...">
+                <div class=" terrenos col-md-4">
+                <img src= src/media/soloTerrenos/HaciendaDonAurelio.jpeg class="terrenos img-fluid rounded-start p-4" alt="...">
                 </div>
                 <div class="card-body col-md-8 p-4">
                     <h5 class="card-title ">Hacienda Don Aurelio</h5>
@@ -88,7 +88,7 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/soloTerrenos/AltoCancura.jpeg class="img-fluid rounded-start p-4" alt="...">
+                <img src=src/media/soloTerrenos/AltoCancura.jpeg class="img-fluid rounded-start p-4 " alt="...">
                 </div>
                 <div class="card-body col-md-8 p-4">
                     <h5 class="card-title">Alto Cancura</h5>
