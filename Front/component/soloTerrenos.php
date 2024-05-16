@@ -9,11 +9,11 @@
         <div class="text-center mb-5">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus dolorum distinctio sed adipisci enim. Natus officia accusantium corrupti est, ut, iure voluptatibus asperna</p>
         </div>
-        <!-- Primera tarjeta - Hacienda Don Aurelio -->
+        <!-- Primera tarjeta - Hacienda Pellín -->
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class=" terrenos col-md-4">
-                <img src= src/media/soloTerrenos/HaciendaPellin.jpeg class="terrenos img-fluid border-radius mt-4" alt="...">
+                <img src= src/media/soloTerrenos/HaciendaPellin.jpeg class="terrenos img-fluid border-radius mt-4 img2" alt="...">
                 </div>
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title ">Hacienda Pellín</h2>
@@ -28,7 +28,7 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/soloTerrenos/VistaCoronel.jpeg class="img-fluid border-radius mt-4" alt="...">
+                <img src=src/media/soloTerrenos/VistaCoronel.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
                 </div>
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Vista Coronel</h2>
@@ -43,7 +43,7 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/soloTerrenos/BoldosDeDuao.jpeg class="img-fluid border-radius mt-4" alt="...">
+                <img src=src/media/soloTerrenos/BoldosDeDuao.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
                 </div>
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Boldos de Duao</h2>
@@ -58,7 +58,7 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/soloTerrenos/ValleCuracautin.jpeg class="img-fluid border-radius mt-4" alt="...">
+                <img src=src/media/soloTerrenos/ValleCuracautin.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
                 </div>
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Valle Curacautín</h2>
@@ -73,7 +73,7 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/soloTerrenos/ViveNeltume.jpeg class="img-fluid border-radius mt-4" alt="...">
+                <img src=src/media/soloTerrenos/ViveNeltume.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
                 </div>
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Vive Neltume</h2>
@@ -88,7 +88,7 @@
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
             <div class="row g-0">
                 <div class="col-md-4">
-                <img src=src/media/soloTerrenos/AltoCancura.jpeg class="img-fluid border-radius mt-4 " alt="...">
+                <img src=src/media/soloTerrenos/AltoCancura.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
                 </div>
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Alto Cancura</h2>
