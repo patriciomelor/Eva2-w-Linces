@@ -7,19 +7,19 @@
     <div class="collapse navbar-collapse" id="navbarScroll">
       <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Nosotros">Nosotros</a>
+          <a class="nav-link" href="#nosotros">Nosotros</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#Mision">Mision y Vision</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#SoloT">Solo Terrenos</a>
+          <a class="nav-link" href="#soloterreno">Solo Terrenos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Parcelas</a>
+          <a class="nav-link" href="parcelas">Parcelas</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Casa en Parcelas</a>
@@ -28,7 +28,7 @@
           <a class="nav-link" href="#">Q&A</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contacto</a>
+          <a class="nav-link" href="#contacto">Contacto</a>
         </li>
       
       </ul>
