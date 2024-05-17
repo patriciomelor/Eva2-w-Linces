@@ -1,6 +1,8 @@
 <?php
 // backend/includes/auth.php
 
+
+
 $_metodo = $_SERVER['REQUEST_METHOD']; // GET, POST, PATCH, PUT, DELETE
 $_ubicacion = $_SERVER['HTTP_HOST']; // localhost
 $_path = $_SERVER['REQUEST_URI']; // todo después del server

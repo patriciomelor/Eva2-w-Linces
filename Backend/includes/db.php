@@ -1,4 +1,5 @@
 <?php
+// backend/includes/db.php
 
 // Incluir el archivo de configuración
 require_once '../config/config.php';
@@ -17,5 +18,4 @@ try {
     // Si ocurre algún error al conectar a la base de datos, mostrar un mensaje de error
     die("Error de conexión a la base de datos: " . $e->getMessage());
 }
-
 ?>
