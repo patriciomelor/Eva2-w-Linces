@@ -1,4 +1,4 @@
-<div class="flex-container">
+<section class="container justify-content-center" style="padding-bottom: 5rem; padding-top: 18px;"><div class="flex-container">
     <div class="row justify-content-center" >
         <div>
             <h1 class="text-center mt-5 mb-3">MISIÓN Y VISIÓN</h1>
