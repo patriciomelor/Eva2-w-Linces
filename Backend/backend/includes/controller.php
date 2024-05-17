@@ -33,18 +33,52 @@ class Controlador
         $this->conexion = new Conexion();
     }
 
-    public function getAll()
+    public function getAllParcelas()
     {
         $conn = $this->conexion->getConnection();
-        $sql = "SELECT id, nombre, activo FROM mantenedor";
+        $sql = "SELECT * FROM parcelas";
         $stmt = $conn->prepare($sql);
         $stmt->execute();
-        $result = $stmt->fetchAll();
+        $parcelas = $stmt->fetchAll(PDO::FETCH_ASSOC);
         $this->conexion->closeConnection();
-        return $result;
+        return $parcelas;
     }
 
-    // Métodos adicionales para insertar, actualizar, eliminar datos, etc.
-    // postNuevo, patchEncenderApagar, putNombreById, deleteById ...
+    public function crearParcela($tipo, $lote, $servicio)
+    {
+        $conn = $this->conexion->getConnection();
+        $sql = "INSERT INTO parcelas (tipo, lote, servicio) VALUES (?, ?, ?)";
+        $stmt = $conn->prepare($sql);
+        $stmt->execute([$tipo, $lote, $servicio]);
+        $this->conexion->closeConnection();
+        return true; // Opcional: puedes devolver un indicador de éxito o error
+    }
+
+    public function actualizarParcela($id, $tipo, $lote, $servicio)
+    {
+        $conn = $this->conexion->getConnection();
+        $sql = "UPDATE parcelas SET tipo = ?, lote = ?, servicio = ? WHERE id = ?";
+        $stmt = $conn->prepare($sql);
+        $stmt->execute([$tipo, $lote, $servicio, $id]);
+        $this->conexion->closeConnection();
+        return true; // Opcional: puedes devolver un indicador de éxito o error
+    }
+
+    public function actualizarParcialParcela($id, $datos)
+    {
+        // Implementa la lógica para actualizar parcialmente una parcela según los datos proporcionados
+        // Puedes usar la función json_decode para convertir los datos JSON en un array PHP
+        // y luego actualizar solo los campos necesarios en la base de datos
+    }
+
+    public function eliminarParcela($id)
+    {
+        $conn = $this->conexion->getConnection();
+        $sql = "DELETE FROM parcelas WHERE id = ?";
+        $stmt = $conn->prepare($sql);
+        $stmt->execute([$id]);
+        $this->conexion->closeConnection();
+        return true; // Opcional: puedes devolver un indicador de éxito o error
+    }
 }
 ?>
