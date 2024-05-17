@@ -18,8 +18,9 @@
             <p>Nuestra visión es ser reconocidos como lideres en el mercado inmobiliario, destacandonos por nuestro compromiso con la 
                 accesibilidad financiera y la transparencia a cada uno de nuestros clientes. Nos interesa ser confiables y transparentes
                  en entregar oportunidades realistas</p>
+        </div>
         <div class="row" style="max-width: 1200px;">
-            <img src=src/media/Imagenvision.jpg img1>
+            <img src=src/media/Imagenvision.jpg id=img1>
         </div>                    
         </div>    
     </div>
