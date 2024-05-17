@@ -1,4 +1,5 @@
 <!-- Página de referencia: https://compratuparcela.cl/regiones/v-region/ -->
+<section class="container justify-content-center" style="padding-bottom: 5rem; padding-top: 18px;">
 
 <div class="flex-container mt-5 mb-5">
     <div class="row justify-content-center">
@@ -94,7 +95,7 @@
                     <h2 class="card-title">Alto Cancura</h2>
                     <p class="card-text"><small class="text-body-secondary">Región de los Lagos</small></p>
                     <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
+                    <p class="card-text"><small class=" text-muted">Desde 5000m2</small></p>
                     <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
 
                 </div>

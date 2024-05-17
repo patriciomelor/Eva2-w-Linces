@@ -1,3 +1,4 @@
+<section class="container justify-content-center" style="padding-bottom: 5rem; padding-top: 18px;">
 <div class="flex-container">
     <div class="row justify-content-center" >
         <div>
@@ -8,7 +9,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
         </div>
         <div class="row">
-        <!-- <div class="container justify-content-center" style="padding-bottom: 5rem; padding-top: 18px;"> -->
+        <div class="container text-center" style="padding-bottom: 15px; padding-top: 15px;">
             <img src=src/media/ImagenParcelaNosotros.jpeg id="img_nosotros">
         </div>        
         <div class="text-center mt-5 mb-5">

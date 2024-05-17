@@ -9,10 +9,10 @@
         <div class="card col-md-4 m-3"  >
             <div class="row centrar-box">
                 <img class="card-img-top" src="src/media/Parcelafrutillar.jpg">
-                    <div class="card  m-3 ">
-                        <h2 class="card title">Parcela Frutillar</h2>
-                        <p class="card text">Idílica ubicación, calidad de vida aqui encontraras parcelas con un tamaño promedio de 5000 metros cuadrados (Aproximadamente 0.5 hectáreas) el espacio suficiente para construir la casa que tanto esperaste.</p>
-                        <p class="card text"><small class="text-body-secondary">Región de los lagos</small></p>
+                    <div class="m-3 ">
+                        <h2>Parcela Frutillar</h2>
+                        <p>Idílica ubicación, calidad de vida aqui encontraras parcelas con un tamaño promedio de 5000 metros cuadrados (Aproximadamente 0.5 hectáreas) el espacio suficiente para construir la casa que tanto esperaste.</p>
+                        <p><small class="text-body-secondary">Región de los lagos</small></p>
                     </div>
             
             </div>
