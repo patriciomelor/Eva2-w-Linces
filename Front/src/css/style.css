@@ -67,6 +67,10 @@ nav li ul {
     height: 40%;
 }
 
-#img_nosotros {
-    width: 95%;
+#img1 {
+    width: 100%;
 }
+.container {
+    justify-content: center;
+    margin-top: 5;
+} 

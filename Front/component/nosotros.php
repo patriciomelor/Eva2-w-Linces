@@ -9,7 +9,7 @@
         </div>
         <div class="row">
         <!-- <div class="container justify-content-center" style="padding-bottom: 5rem; padding-top: 18px;"> -->
-            <img src=src/media/ImagenParcelaNosotros.jpeg id="img_nosotros">
+            <img src=src/media/ImagenParcelaNosotros.jpeg id="img1">
         </div>        
         <div class="text-center mt-5 mb-5">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>

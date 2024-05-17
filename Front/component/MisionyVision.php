@@ -11,7 +11,7 @@
                 necesarias para vivir en armonia </p>
         </div>
         <div class="row" style="max-width: 1200px;">
-            <img src=src/media/imagenmision.jpeg>
+            <img src=src/media/imagenmision.jpeg id="img1">
         </div>        
         <div class="text-center mt-5 mb-5">
         <h3>Vision</h3>
@@ -19,7 +19,7 @@
                 accesibilidad financiera y la transparencia a cada uno de nuestros clientes. Nos interesa ser confiables y transparentes
                  en entregar oportunidades realistas</p>
         <div class="row" style="max-width: 1200px;">
-            <img src=src/media/Imagenvision.jpg>
+            <img src=src/media/Imagenvision.jpg img1>
         </div>                    
         </div>    
     </div>
