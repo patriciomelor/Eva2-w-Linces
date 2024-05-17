@@ -6,15 +6,19 @@
         </div>        
         <hr>
         <div class="text-center mb-5">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
+            <p>En Terrasol nos enorgullece ser tu socio confiable en el mundo inmobiliario. Con años de experiencia y un profundo conocimiento del mercado, nos dedicamos a proporcionarte las mejores opciones de parcelas y terrenos para construir tu hogar ideal. Nuestro compromiso es ofrecerte un servicio personalizado, orientado a tus necesidades y aspiraciones. Desde terrenos urbanos hasta retiros rurales, nuestra amplia cartera de propiedades garantiza que encuentres el lugar perfecto para construir tus sueños. Confía en nosotros para hacer realidad tu visión inmobiliaria con integridad, profesionalismo y pasión por el bienestar de nuestros clientes.
+
+
+
+</p>
         </div>
         <div class="row">
-        <div class="container justify-content-center" style="padding-bottom: 15px; padding-top: 15px;">
+        <div class="container text-center" style="padding-bottom: 15px; padding-top: 15px;">
             <img src=src/media/ImagenParcelaNosotros.jpeg id="img_nosotros">
         </div>        
         <div class="text-center mt-5 mb-5">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit facilis distinctio labore temporibus praesentium, exercitationem nemo! A cum dolor voluptatem omnis corrupti autem, impedit nulla distinctio illo eaque recusandae dolorum!</p>
+            <p>En los pintorescos albores del valle de Talca, nació "Terrasol", una empresa familiar con una visión ambiciosa: conectar a las personas con la naturaleza a través de la adquisición de terrenos. Fundada por los hermanos Lucas y Emily en 1996, la empresa comenzó como un modesto proyecto de conservación de tierras.</p>
+            <p>Con el tiempo, su compromiso con la preservación del entorno se fusionó con una creciente demanda de propiedades rurales y urbanas, lo que llevó a la expansión de la empresa. Hoy, Terrasol es un referente en el mercado inmobiliario, reconocido por su ética empresarial y su vasta selección de parcelas y terrenos que capturan la esencia de la vida al aire libre.</p>
         </div>    
     </div>
 </div>
