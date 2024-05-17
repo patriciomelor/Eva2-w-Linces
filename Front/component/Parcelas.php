@@ -10,7 +10,7 @@
             <div class="row centrar-box">
                 <img class="card-img-top" src="src/media/Parcelafrutillar.jpg">
                     <div class="card  m-3 ">
-                        <h1 class="card title">Parcela Frutillar</h1>
+                        <h2 class="card title">Parcela Frutillar</h2>
                         <p class="card text">Idílica ubicación, calidad de vida aqui encontraras parcelas con un tamaño promedio de 5000 metros cuadrados (Aproximadamente 0.5 hectáreas) el espacio suficiente para construir la casa que tanto esperaste.</p>
                         <p class="card text"><small class="text-body-secondary">Región de los lagos</small></p>
                     </div>
@@ -22,7 +22,7 @@
             <div class="row centrar-box">
                 <img class="card-img-top"  src="src/media/Parcelapurranque.jpg" width="100%">
                 <div class="card m-3">
-                    <h1 class="card">Parcela Purranque</h1>
+                    <h2 class="card">Parcela Purranque</h2>
                     <p class="card">Se destaca por su priviligiada ubicación, equilibrio perfecto entre la tranquilidad del campo y la conveniencia de estar a pasos de servicios (Supermercado,centros de salud,colegios entre otros).</p>
                     <p class="card"><small class="text-body-secondary">Región de los lagos</small></p>
                 </div>
@@ -36,7 +36,7 @@
             <div class="row centrar-box">
                   <img class="card-img-top" src="src/media/Parcelaosorno.jpeg"width="100%">
                 <div class="card m-3">
-                    <h1 class="card">Parcela Osorno</h1>
+                    <h2 class="card">Parcela Osorno</h2>
                     <p class="card">Un lugar unico acogedor cercano a lugares donde puedes realizar actividades comunitarias y eventos, una cultura distinta que hace un lugar unico para vivir.</p>
                     <p class="card"><small class="text-body-secondary">Región del Biobío</small></p>
                 </div>
@@ -47,7 +47,7 @@
             <div class="row centrar-box">
                     <img class="card-img-top" src="src/media/Parcelasanjavier.jpg"width="100%">
                     <div class="card m-3">
-                        <h1 class="card">Parcela San Javier</h1>
+                        <h2 class="card">Parcela San Javier</h2>
                         <p class="card">Colinas ondulantes hasta bosques frondosos y campos verdes, cada parcela ofrece un paisaje relajante, si busca escapar de la ciudad este es el lugar indicado.
                         <p class="card"><small class="text-body-secondary">Región del Maule</small></p>
                     </div>

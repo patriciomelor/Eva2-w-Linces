@@ -1,14 +1,14 @@
 <div class="flex-container">
     <div class="row justify-content-center" >
         <div>
-            <h1 class="text-center mt-5 mb-3">¿Quiénes somos?</h1>
+            <h1 class="text-center mt-5 mb-3">¿QUIÉNES SOMOS?</h1>
         </div>        
         <hr>
         <div class="text-center mb-5">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
         </div>
-        <div class="text-center" style="max-width: 1200px;">
-            <img src=src/media/ImagenParcelaNosotros.jpeg>
+        <div class="text-center " style="max-width: 1200px;">
+            <img src=src/media/ImagenParcelaNosotros.jpeg class="d-block w-100">
         </div>        
         <div class="text-center mt-5 mb-5">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, architecto nobis, earum nemo ab, reprehenderit accusantium quas inventore ipsam cumque distinctio. Aperiam consectetur laudantium illo sint nesciunt, harum pariatur exercitationem.</p>
@@ -16,4 +16,3 @@
         </div>    
     </div>
 </div>
-

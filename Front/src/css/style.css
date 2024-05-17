@@ -1,7 +1,16 @@
-
 h1 {
     color: black;
     font-size: 55px !important;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+h2 {
+    color: black;
+    font-size: 30px !important;
     text-align: center;
     font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
@@ -16,9 +25,9 @@ p {
     margin-right: 20px;
 }
 
-img {
-    margin-left: 20px;
-    margin-right: 20px;
+.img2 {
+    padding: 10px;
+    border-radius: 20px;
 }
 
 .card {
@@ -52,4 +61,14 @@ img {
 nav li ul {
     border: 1px grey;
     box-shadow: 2px;
+}
+
+h2 {
+    color: black;
+    font-size: 35px !important;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
 }
