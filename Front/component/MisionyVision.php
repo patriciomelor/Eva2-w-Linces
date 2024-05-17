@@ -10,7 +10,7 @@
                 estamos muy comprometidos con el enfoque innovador y centrado en el cliente,ofrecemos un estilo de vida totalmente rodeado de naturaleza y con las comodidades
                 necesarias para vivir en armonia </p>
         </div>
-        <div class="text-center" style="max-width: 1200px;">
+        <div class="row" style="max-width: 1200px;">
             <img src=src/media/imagenmision.jpeg>
         </div>        
         <div class="text-center mt-5 mb-5">
@@ -18,7 +18,9 @@
             <p>Nuestra visión es ser reconocidos como lideres en el mercado inmobiliario, destacandonos por nuestro compromiso con la 
                 accesibilidad financiera y la transparencia a cada uno de nuestros clientes. Nos interesa ser confiables y transparentes
                  en entregar oportunidades realistas</p>
-                  <img src=src/media/Imagenvision.jpg>
+        <div class="row" style="max-width: 1200px;">
+            <img src=src/media/Imagenvision.jpg>
+        </div>                    
         </div>    
     </div>
 </div>

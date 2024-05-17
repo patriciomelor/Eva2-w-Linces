@@ -63,12 +63,10 @@ nav li ul {
     box-shadow: 2px;
 }
 
-h2 {
-    color: black;
-    font-size: 35px !important;
-    text-align: center;
-    font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
-    font-weight: bold;
-    font-style: normal;
+.card-img-left {
+    height: 40%;
+}
+
+#img_nosotros {
+    width: 95%;
 }
