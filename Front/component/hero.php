@@ -1,54 +1,26 @@
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
   <div class="carousel-inner">
-    
     <div class="carousel-item active">
-      <img class="d-block w-100" src="src/media/banner/1.png" alt="First slide">
+      <img class="d-block w-100" src="src/media/banner/b1.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="src/media/banner/2.png" alt="Second slide">
+      <img class="d-block w-100" src="src/media/banner/b2.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="src/media/banner/3.png" alt="Third slide">
+      <img class="d-block w-100" src="src/media/banner/b3.jpg" alt="Third slide">
     </div>
   </div>
-  
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
+    <span class="sr-only"></span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
+    <span class="sr-only"></span>
   </a>
 </div>
-
-<!-- <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="src/media/banner/1.png" alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="src/media/banner/2.png" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="src/media/banner/3.png" alt="Third slide">
-    </div>
-  </div>
-</div> -->
-
-<!-- Slider -->
-<!-- <div class=”slider”>
-     <div class=”contenedor”>
-            <ul>
-                 <li><img src="src/media/banner/1.png” alt="image 1”></li>
-                 <li><img src="src/media/banner/2.png” alt="image 2”></li>
-                 <li><img src="src/media/banner/3.png” alt="image 3”></li>
-            </ul>
-     </div>
-     <div class=”menu”>
-            <ul>
-                 <li><a href=”#”>Prev</a></li>
-                 <li><a href=”#”>Next</a></li>
-            </ul>
-     </div>
-</div> -->

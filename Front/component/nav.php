@@ -19,10 +19,10 @@
           <a class="nav-link" href="#soloterreno">Solo Terrenos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="parcelas">Parcelas</a>
+          <a class="nav-link" href="#">Casa en Parcelas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Casa en Parcelas</a>
+          <a class="nav-link" href="parcelas">Parcelas</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Q&A</a>

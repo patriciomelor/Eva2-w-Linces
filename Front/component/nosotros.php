@@ -1,24 +1,21 @@
-<section class="container justify-content-center" style="padding-bottom: 5rem; padding-top: 18px;">
-<div class="flex-container">
-    <div class="row justify-content-center" >
-        <div>
-            <h1 class="text-center mt-5 mb-3">¿QUIÉNES SOMOS?</h1>
-        </div>        
-        <hr>
-        <div class="text-center mb-5">
-            <p>En Terrasol nos enorgullece ser tu socio confiable en el mundo inmobiliario. Con años de experiencia y un profundo conocimiento del mercado, nos dedicamos a proporcionarte las mejores opciones de parcelas y terrenos para construir tu hogar ideal. Nuestro compromiso es ofrecerte un servicio personalizado, orientado a tus necesidades y aspiraciones. Desde terrenos urbanos hasta retiros rurales, nuestra amplia cartera de propiedades garantiza que encuentres el lugar perfecto para construir tus sueños. Confía en nosotros para hacer realidad tu visión inmobiliaria con integridad, profesionalismo y pasión por el bienestar de nuestros clientes.
-
-
-
-</p>
-        </div>
-        <div class="row">
-        <div class="container text-center" style="padding-bottom: 15px; padding-top: 15px;">
-            <img src=src/media/ImagenParcelaNosotros.jpeg id="img_nosotros">
-        </div>        
-        <div class="text-center mt-5 mb-5">
-            <p>En los pintorescos albores del valle de Talca, nació "Terrasol", una empresa familiar con una visión ambiciosa: conectar a las personas con la naturaleza a través de la adquisición de terrenos. Fundada por los hermanos Lucas y Emily en 1996, la empresa comenzó como un modesto proyecto de conservación de tierras.</p>
-            <p>Con el tiempo, su compromiso con la preservación del entorno se fusionó con una creciente demanda de propiedades rurales y urbanas, lo que llevó a la expansión de la empresa. Hoy, Terrasol es un referente en el mercado inmobiliario, reconocido por su ética empresarial y su vasta selección de parcelas y terrenos que capturan la esencia de la vida al aire libre.</p>
-        </div>    
+<section class="content-center">
+<div class="flex">
+    <div class="row" >
+        <h1 class="text-center">¿QUIÉNES SOMOS?</h1>
+    </div>        
+    <div class="flex-container text-center Fgris">
+        <p class="padNos" style="padding-top:40px">Somos una empresa inmobiliaria comprometida con la satisfacción y las necesidades de nuestros clientes. Desde nuestra fundación, nos hemos dedicado a ofrecer un servicio integral en la compra y venta de casas y parcelas, con un enfoque centrado en la excelencia, la transparencia y la confianza.</p>
+        <p class="padNos">Entendemos que la compra o venta de una propiedad es una de las decisiones más importantes en la vida de una persona. Por eso, nos esforzamos por brindar un acompañamiento cercano y profesional en cada etapa del proceso. Desde la búsqueda de la propiedad perfecta hasta la firma de los documentos finales, estamos ahí para asesorar y guiar a nuestros clientes en todo momento.</p>
     </div>
+    </div>   
+    <div class="img3">
+        <img src=src/media/ImagenParcelaNosotros.jpeg   width="100%" id="img_nosotros">
+    </div>    
+    <!-- <div class="row flex-container text-center mt-5 mb-10" >
+        <p>Nos distinguimos por nuestra amplia cartera de propiedades, que incluye una variedad de opciones para satisfacer los diferentes gustos y necesidades de nuestros clientes. Ya sea que estén buscando una acogedora casa familiar, un terreno para construir la casa de sus sueños o una propiedad de inversión, tenemos la solución perfecta para ellos.</p>
+        <p>Además de nuestra sólida presencia local, también nos destacamos por nuestra capacidad para adaptarnos a las tendencias del mercado y aprovechar las últimas tecnologías en marketing inmobiliario. Utilizamos estrategias innovadoras para promocionar las propiedades de nuestros clientes y asegurarnos de que alcancen la mayor visibilidad posible.</p>
+        <p>En resumen, somos mucho más que una empresa inmobiliaria; somos un socio de confianza en el camino hacia la realización de los sueños de nuestros clientes. Con un enfoque centrado en el cliente, un equipo dedicado y una amplia experiencia en el mercado, estamos listos para ayudar a nuestros clientes a encontrar la propiedad perfecta que se ajuste a sus necesidades y deseos.</p>  
+    </div> -->
+
 </div>
+</section>

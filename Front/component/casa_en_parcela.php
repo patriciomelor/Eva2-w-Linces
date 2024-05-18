@@ -1,6 +1,6 @@
-<section class="container justify-content-center mt-5" >
+<section class="container justify-content-center" >
 <div class="row">
-    <h1 class="text-center mt-5 mb-3">CASA EN PARCELA</h1>
+    <h1 class="text-center">CASA EN PARCELA</h1>
 </div>
 <hr>
 <div class="text-center mb-5">

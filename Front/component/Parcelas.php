@@ -1,10 +1,12 @@
 <div class="flex-container">
-<div class="row justify-content-center">   
-        <div class="container">
-            <h1 class="text-center mt-5 mb-3">NUESTRAS PARCELAS</h1>
-            <h3 class="text-center">Selecciona la parcela de tu preferencia</h3>
+<br><hr><br>
+<div class="row justify-content-center  Fverde1">           
+        <div class="text-center">
+            <h1>NUESTRAS PARCELAS</h1>
         </div>
-        <hr>   
+        <div class="flex-container text-center">
+            <h3 class="padNos" style="padding-top:40px">Selecciona la parcela de tu preferencia.</h3>
+        </div>
         <!-- Parcelas Frutillar-->
         <div class="card col-md-4 m-3"  >
             <div class="row centrar-box">
@@ -30,7 +32,7 @@
             </div>
         </div>
 </div>
-<div class="row justify-content-center">
+<div class="row justify-content-center Fverde1" style="padding-bottom:50px">
         <!-- Parcelas Osorno -->
         <div class="card col-md-4 m-3" >
             <div class="row centrar-box">
