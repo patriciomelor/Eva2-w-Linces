@@ -64,7 +64,9 @@ nav li ul {
 }
 
 .card-img-left {
-    height: 40%;
+    height: 30%;
+    width: 80%;
+    border-radius: 20px;
 }
 
 #img1 {
@@ -74,3 +76,10 @@ nav li ul {
     justify-content: center;
     margin-top: 5;
 } 
+#card_casa_p {
+    align-items: center;
+}
+#cardTitle {
+    text-align: center;
+}
+

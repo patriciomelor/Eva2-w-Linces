@@ -10,7 +10,7 @@
         <!--Fin nav-->
     </head>
     <!--Hero-->
-    <div class="container">
+    <div class="">
         <?php include 'component/hero.php'; ?>    
     </div>
     <!--Fin Hero-->
@@ -47,7 +47,9 @@
     <!--fin footer-->
 
     <!--JS-->
-    <?php include 'component/Js.php'; ?>
+    <?php include 'Js.php'; ?>
+
+
         
 </body>
 </html>
