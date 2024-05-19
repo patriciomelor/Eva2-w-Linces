@@ -1,22 +1,22 @@
 <?php
-// backend/api/v1/pregunta_frecuente/put.php
+// backend/api/v1/historia/post.php
 
 require_once '../../../includes/auth.php';
 require_once '../../../includes/controller.php';
 
-if ($_metodo === 'PUT') {
+if ($_metodo === 'POST') {
     $data = json_decode(file_get_contents("php://input"), true);
 
-    if (isset($data['id']) && isset($data['pregunta']) && isset($data['respuesta'])) {
+    if (isset($data['titulo']) && isset($data['descripcion']) && isset($data['imagen'])) {
         $controlador = new Controlador();
-        $result = $controlador->actualizarPreguntaFrecuente($data['id'], $data['pregunta'], $data['respuesta']);
+        $result = $controlador->crearHistoria($data['titulo'], $data['descripcion'], $data['imagen']);
 
         if ($result) {
-            http_response_code(200);
-            echo json_encode(['message' => 'Pregunta frecuente actualizada exitosamente']);
+            http_response_code(201);
+            echo json_encode(['message' => 'Historia creada exitosamente']);
         } else {
             http_response_code(500);
-            echo json_encode(['message' => 'Error al actualizar la pregunta frecuente']);
+            echo json_encode(['message' => 'Error al crear la historia']);
         }
     } else {
         http_response_code(400);

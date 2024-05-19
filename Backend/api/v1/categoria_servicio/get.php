@@ -6,7 +6,7 @@ require_once '../../../includes/controller.php';
 
 if ($_metodo === 'GET') {
     $controlador = new Controlador();
-    $categorias = $controlador->getCategoriasServicio(); // Método ficticio para obtener las categorías de servicio
+    $categorias = $controlador->getCategoriasServicio();
 
     if (!empty($categorias)) {
         http_response_code(200);
@@ -19,4 +19,5 @@ if ($_metodo === 'GET') {
     http_response_code(405);
     echo json_encode(['message' => 'Método no permitido']);
 }
+
 ?>

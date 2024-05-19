@@ -6,11 +6,11 @@ require_once '../../../includes/controller.php';
 
 if ($_metodo === 'GET') {
     $controlador = new Controlador();
-    $infoContacto = $controlador->getInfoContacto(); // Método ficticio para obtener la información de contacto
+    $info_contacto = $controlador->getInfoContacto();
 
-    if (!empty($infoContacto)) {
+    if (!empty($info_contacto)) {
         http_response_code(200);
-        echo json_encode($infoContacto);
+        echo json_encode($info_contacto);
     } else {
         http_response_code(404);
         echo json_encode(['message' => 'No se encontró información de contacto']);
