@@ -1,8 +1,9 @@
 <!-- Página de referencia: https://haciendainmobiliaria.cl/preguntas_frecuentes/-->
 <section class="container justify-content-center" style="padding-bottom: 5rem; padding-top: 18px;">
 <div class="row">
-    <h1 id="" class="d-none d-md-block display-5 text-center py-4">Preguntas Frecuentes</h1>
+    <h1 id="" class="text-center mt-5 mb-3">PREGUNTAS FRECUENTES</h1>
 </div>
+<hr>
 <div class="accordion" id="accordionPanelsStayOpenExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="panelsStayOpen-headingOne">
