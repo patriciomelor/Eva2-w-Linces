@@ -10,33 +10,31 @@
         <!--Fin nav-->
     </head>
     <!--Hero-->
-    <div class="">
-        <?php include 'component/hero.php'; ?>    
+    <div>
+        <?php include 'component/hero.php'; ?>           
     </div>
     <!--Fin Hero-->
     <main>
-        <!--Section Nosotros-->
-        <section class=container id="nosotros">
+        <section id="nosotros">
           <?php include 'component/nosotros.php'; ?><!--Caro-->  
         </section>
-        <section class=container id="Mision">
+        <section id="Mision">
           <?php include 'component/MisionyVision.php'; ?><!--Caro-->  
         </section>
-        <section class=container id="soloterreno">
+        <section id="soloterreno">
           <?php include 'component/soloTerrenos.php'; ?><!--Caro-->  
         </section>
-        <!--END Section Caro-->
-        <section class=container id="parcelas">
-        <?php include 'component/Parcelas.php'; ?><!--Dany-->
-        </section>
-        <section class=container id="casa_en_parcela">
+        <section id="casa_en_parcela">
         <?php include 'component/casa_en_parcela.php'; ?><!--Nathy-->
         </section>
-        <section class=container id="preguntas_frecuentes">
+        <section id="parcelas">
+        <?php include 'component/Parcelas.php'; ?><!--Dany-->
+        </section>
+        <section id="preguntas_frecuentes">
         <?php include 'component/FAQs.php'; ?><!--Nathy-->
         </section>
         <!--Contacto-->
-        <section class=container id="contacto">
+        <section id="contacto">
             <?php include 'component/contact.php'; ?>
         </section> <!--Pato-->
         <!--END Contacto--> 
