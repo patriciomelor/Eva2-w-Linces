@@ -13,7 +13,7 @@
         <div class="img3">
     <img src=src/media/Imagenvision.jpg id=img1>
     </div class="flex-container text-center Fgris">
-        <p class="padNos" style="padding-top:40px"> <strong>Nuestra visión es ser reconocidos como líderes en el mercado inmobiliario, destacándonos por nuestro compromiso con la accesibilidad financiera y la transparencia hacia cada uno de nuestros clientes. Nos interesa ser confiables y transparentes al entregar oportunidades realistas
+        <p class="padNos" style="padding-top:40px"> <strong>Nuestra visión es ser reconocidos como líderes en el mercado inmobiliario, destacándonos por nuestro compromiso con la accesibilidad financiera y la transparencia hacia cada uno de nuestros clientes. Nos interesa ser confiables y transparentes al entregar oportunidades realistas.
         </strong></p>
         <hr>
     </div>
