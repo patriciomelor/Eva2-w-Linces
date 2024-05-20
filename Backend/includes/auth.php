@@ -1,7 +1,7 @@
 <?php
 // backend/includes/auth.php
 
-
+require_once __DIR__ . '/../config/config.php';
 
 $_metodo = $_SERVER['REQUEST_METHOD']; // GET, POST, PATCH, PUT, DELETE
 $_ubicacion = $_SERVER['HTTP_HOST']; // localhost
@@ -37,8 +37,6 @@ try {
 }
 
 // Tokens
-require_once __DIR__ . '/../config/config.php';
-
 $valid_tokens = [
     'GET' => [TOKEN_GET, TOKEN_GET_EVALUACION],
     'POST' => [TOKEN_POST],

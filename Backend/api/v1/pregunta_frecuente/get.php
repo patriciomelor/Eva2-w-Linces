@@ -6,7 +6,7 @@ require_once '../../../includes/controller.php';
 
 if ($_metodo === 'GET') {
     $controlador = new Controlador();
-    $preguntas = $controlador->getPreguntasFrecuentes(); // Método ficticio para obtener todas las preguntas frecuentes
+    $preguntas = $controlador->getPreguntasFrecuentes();
 
     if (!empty($preguntas)) {
         http_response_code(200);
