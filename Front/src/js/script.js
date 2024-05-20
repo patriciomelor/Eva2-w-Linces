@@ -57,3 +57,18 @@ document.addEventListener('DOMContentLoaded', function() {
     // Asignar la función validateForm al evento click del botón Enviar
     document.querySelector('.btn-outline-success').addEventListener('click', validateForm);
 });
+$(window).scroll(function(){
+    // El botón se mostrara cuando el usuario aya bajado 501px a más.
+    if($(this).scrollTop() > 500){
+      $(".fa-solid").show(); //fadeIn
+    }else{
+      $(".fa-solid").fadeOut(); //fadeOut
+    }
+  });
+  $(".fa-solid i").on('click', function (e) {
+    e.preventDefault();
+      $("body,html").animate({
+      scrollTop: 0
+    },700);
+    return false;
+  });

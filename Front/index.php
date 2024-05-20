@@ -10,12 +10,11 @@
         <!--Fin nav-->
     </head>
     <!--Hero-->
-    <div class="container">
-        <?php include 'component/hero.php'; ?>    
+    <div>
+        <?php include 'component/hero.php'; ?>           
     </div>
     <!--Fin Hero-->
     <main>
-        <!--Section Nosotros-->
         <section id="nosotros">
           <?php include 'component/nosotros.php'; ?><!--Caro-->  
         </section>
@@ -25,12 +24,11 @@
         <section id="soloterreno">
           <?php include 'component/soloTerrenos.php'; ?><!--Caro-->  
         </section>
-        <!--END Section Caro-->
-        <section id="parcelas">
-        <?php include 'component/Parcelas.php'; ?><!--Dany-->
-        </section>
         <section id="casa_en_parcela">
         <?php include 'component/casa_en_parcela.php'; ?><!--Nathy-->
+        </section>
+        <section id="parcelas">
+        <?php include 'component/Parcelas.php'; ?><!--Dany-->
         </section>
         <section id="preguntas_frecuentes">
         <?php include 'component/FAQs.php'; ?><!--Nathy-->
@@ -46,8 +44,8 @@
     <?php include 'component/footer.php'; ?>
     <!--fin footer-->
 
-    <!--JS-->
+    <!-- Js -->
     <?php include 'component/Js.php'; ?>
-        
+            
 </body>
 </html>

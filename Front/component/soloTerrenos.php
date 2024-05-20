@@ -1,13 +1,11 @@
-<!-- Página de referencia: https://compratuparcela.cl/regiones/v-region/ -->
-
-<div class="flex-container mt-5 mb-5">
-    <div class="row justify-content-center">
-        <div>
-            <h1 class="text-center mt-5 mb-3">SOLO TERRENOS</h1>
+<div class="flex-container">
+    <br><br>
+    <div class="row justify-content-center Fverde1" style="padding-bottom:50px">
+        <div class="text-center">
+            <h1 id="tClaro">TERRENOS</h1>
         </div>
-        <hr>
-        <div class="text-center mb-5">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus dolorum distinctio sed adipisci enim. Natus officia accusantium corrupti est, ut, iure voluptatibus asperna</p>
+        <div class="flex-container text-center">
+            <h3 class="padNos" id="tClaro" style="padding-top:40px">Explora parcelas ideales: espacio perfecto, entorno natural y cerca de comodidades. Tu rincón de paz está aquí. ¡Construye tu hogar en este paraíso hoy!</h3>
         </div>
         <!-- Primera tarjeta - Hacienda Pellín -->
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
@@ -18,9 +16,9 @@
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title ">Hacienda Pellín</h2>
                     <p class="card-text"><small class="text-body-secondary">Región del Maule</small></p>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
+                    <p class="card-text">En el corazón del Maule, rodeada de árboles y cordillera encuentras el aire fresco de la naturaleza.</p>
+                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">3.500 UF</small></p>
                 </div>                
             </div>
         </div>
@@ -33,9 +31,9 @@
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Vista Coronel</h2>
                     <p class="card-text"><small class="text-body-secondary">Región del Biobío</small></p>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
+                    <p class="card-text">Disfruta la vitalidad de la naturaleza enfatizada por la brisa marina del Pacífico sur.</p>
+                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">5.500 UF</small></p>
                 </div>
             </div>
         </div>
@@ -48,9 +46,9 @@
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Boldos de Duao</h2>
                     <p class="card-text"><small class="text-body-secondary">Región del Biobío</small></p>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
+                    <p class="card-text">El aroma la naturaleza enriquece los paisajes de ensueño que podrás disfrutar en Duao.</p>
+                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">3.500 UF</small></p>
                 </div>
             </div>
         </div>
@@ -63,9 +61,9 @@
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Valle Curacautín</h2>
                     <p class="card-text"><small class="text-body-secondary">Región de la Araucanía</small></p>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
+                    <p class="card-text">Un vasto terreno ondulado, cubierto de hierba verde y árboles majestuosos, con arroyos serpenteantes.</p>
+                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">5.700 UF</small></p>
                 </div>
             </div>
         </div>
@@ -78,9 +76,9 @@
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Vive Neltume</h2>
                     <p class="card-text"><small class="text-body-secondary">Región de los Ríos</small></p>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
+                    <p class="card-text">Con montañas azules en la distancia, ofrece un refugio de belleza natural y serenidad.</p>
+                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">3.500 UF</small></p>
                 </div>
             </div>
         </div>
@@ -93,12 +91,13 @@
                 <div class="card-body col-md-8 p-4">
                     <h2 class="card-title">Alto Cancura</h2>
                     <p class="card-text"><small class="text-body-secondary">Región de los Lagos</small></p>
-                    <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem itaque iure ea, voluptatem commodi fug.</p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 5000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">Desde 3.500 UF</small></p>
+                    <p class="card-text">Un terreno tranquilo, adornado con árboles frondosos que se mecen suavemente con la brisa fresca de la montaña.</p>
+                    <p class="card-text"><small class=" text-muted">5000m2</small></p>
+                    <p class="card-text"><small class="text-body-secondary">4.000 UF</small></p>
 
                 </div>
             </div>
-        </div>                
+        </div>             
     </div>
+    
 </div>
