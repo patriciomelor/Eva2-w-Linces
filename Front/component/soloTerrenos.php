@@ -2,10 +2,10 @@
 <div class="flex-container">
     <div class="row justify-content-center Fverde1" style="padding-bottom:50px">
         <div class="text-center">
-            <h1>SOLO TERRENOS</h1>
+            <h1 id="tClaro">SOLO TERRENOS</h1>
         </div>
         <div class="flex-container text-center">
-            <h3 class="padNos" style="padding-top:40px">En la tranquilidad que ofrecen los paisajes del sur de Chile, te presentamos una selección de terrenos desde la Región del Maule hasta la Región de los Lagos. Disfruta del aire fresco, hermosas vista y la calma de la naturaleza. </h3>
+            <h3 class="padNos" id="tClaro" style="padding-top:40px">En la tranquilidad que ofrecen los paisajes del sur de Chile, te presentamos una selección de terrenos desde la Región del Maule hasta la Región de los Lagos. Disfruta del aire fresco, hermosas vista y la calma de la naturaleza. </h3>
         </div>
         <!-- Primera tarjeta - Hacienda Pellín -->
         <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">

@@ -77,6 +77,16 @@ nav li ul {
     height: 30%;
     width: 80%;
     border-radius: 20px;
+    object-fit: cover;
+}
+
+.card-img-right {
+    margin-top: 20px;
+    height: 300px;
+    object-fit: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
 }
 
 #img1 {
@@ -88,6 +98,7 @@ nav li ul {
 } 
 #card_casa_p {
     align-items: center;
+    border: #35543ea1 solid 2px!important;
 }
 #cardTitle {
     text-align: center;
@@ -120,8 +131,58 @@ nav li ul {
 }
 
 .Fverde1{
-    background-color: #1f2c1d3b;
+    background-color: #35543ea1;
 }
 /* .Fverde2{
     background-color: #86c37c86;
 } */
+
+.accordion-item {
+    border: none!important;
+}
+.accordion-button:focus {
+    box-shadow: none!important;
+    border-color: none!important;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color:#35543ea1!important;
+    color: white!important;
+}
+
+.row {
+    .col {
+        padding: 20px;
+    }
+}
+
+#tClaro {
+    color: white;
+}
+
+/* navegador */
+
+  .nav-item:hover {
+    background-color: #35543ea1!important;
+    cursor: pointer;
+    border-radius: 10px;
+    .nav-link {
+        color: white!important;
+    }
+  }
+
+
+/* boton ir arriba */
+
+  .fa-solid {
+	display:none;
+	padding:10px;
+	background:#35543ea1!important;
+    color: white;
+	font-size:25px;
+	cursor:pointer;
+	position:fixed;
+	bottom:20px;
+	right:20px;
+    z-index: 999;
+}

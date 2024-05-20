@@ -44,10 +44,8 @@
     <?php include 'component/footer.php'; ?>
     <!--fin footer-->
 
-    <!--JS-->
-    <?php include 'Js.php'; ?>
-
-
-        
+    <!-- Js -->
+    <?php include 'component/Js.php'; ?>
+            
 </body>
 </html>
