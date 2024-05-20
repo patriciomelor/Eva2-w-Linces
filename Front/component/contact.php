@@ -34,6 +34,10 @@
                         <textarea class="form-control" id="Mensaje" rows="3"></textarea>
                     </div>
                     <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="agreeTerms">
+                    <label class="form-check-label" for="agreeTerms">Estoy de acuerdo con los términos y condiciones</label>
+                </div>
+                    <div class="mb-3 form-check">
                         <input type="checkbox" class="form-check-input" id="simulateResponse">
                         <label class="form-check-label" for="simulateResponse">Simular respuesta deseada</label>
                     </div>

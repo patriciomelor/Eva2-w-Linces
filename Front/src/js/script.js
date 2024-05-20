@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const servicio = document.getElementById('Servicios').value;
         const mensaje = document.getElementById('Mensaje').value.trim();
         const simulateResponse = document.getElementById('simulateResponse').checked;
+        const agreeTerms = document.getElementById('agreeTerms').checked;
 
         // Expresión regular para validar el correo electrónico
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -41,6 +42,12 @@ document.addEventListener('DOMContentLoaded', function() {
             return false;
         }
 
+        // Validar que se haya marcado el checkbox de términos
+        if (!agreeTerms) {
+            alert('Debe estar de acuerdo con los términos.');
+            return false;
+        }
+
         // Simular la respuesta deseada
         if (simulateResponse) {
             alert('Mensaje enviado exitosamente.');
@@ -57,6 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Asignar la función validateForm al evento click del botón Enviar
     document.querySelector('.btn-outline-success').addEventListener('click', validateForm);
 });
+
 $(window).scroll(function(){
     // El botón se mostrara cuando el usuario aya bajado 501px a más.
     if($(this).scrollTop() > 500){
