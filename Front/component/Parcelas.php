@@ -1,5 +1,5 @@
 <div class="flex-container">
-<br><hr><br>
+<br><hr>
 <div class="row justify-content-center  Fverde1">           
         <div class="text-center">
             <h1>NUESTRAS PARCELAS</h1>

@@ -1,5 +1,6 @@
 <section class="content-center">
 <div class="flex">
+    <br><br>
     <div class="row" >
         <h1 class="text-center">¿QUIÉNES SOMOS?</h1>
     </div>        

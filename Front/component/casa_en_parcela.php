@@ -1,4 +1,5 @@
 <section class="container justify-content-center" >
+<br><br>
 <div class="row">
     <h1 class="text-center">CASA EN PARCELA</h1>
 </div>

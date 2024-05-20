@@ -1,10 +1,10 @@
-<section class="content-center">
 <div class="flex" >
+    <br><br>
     <div class="row">
         <h1 class="text-center">MISIÓN Y VISIÓN</h1>
     </div>      
     <div class="img3">
-        <img src=src/media/misionVision/imagenmision.jpeg id="img1">
+        <img src=src/media/misionVision/imagenmision.jpg id="img1">
     </div>   
     <div class="flex-container text-center Fgris">
         <p class="padNos" style="padding-top:40px"><strong>Nuestra misión en Terrasol Parcelas es ofrecer a nuestros clientes oportunidades únicas para invertir en la naturaleza y la tranquilidad. Estamos muy comprometidos con un enfoque innovador y centrado en el cliente. Ofrecemos un estilo de vida totalmente rodeado de naturaleza y con las comodidades necesarias para vivir en armonía. </strong></p>
