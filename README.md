@@ -22,6 +22,6 @@ Este es un proyecto en php para front y para back, conexion a bd MySQL
 - [Parte Front](https://github.com/patriciomelor/Eva2-w-Linces/tree/main/Front)
   
 ## BackEnd
-
-- [Parte Back](https://github.com/patriciomelor/Eva2-w-Linces/tree/main/Back)
+- [Documento Back] (https://github.com/patriciomelor/Eva2-w-Linces/blob/main/Backend/DOC/InformeApis-IF201IINF-EquipoLinces.pdf)
+- [Parte Back](https://github.com/patriciomelor/Eva2-w-Linces/tree/main/Back](https://github.com/patriciomelor/Eva2-w-Linces/tree/main/Backend)
 
