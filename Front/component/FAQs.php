@@ -1,5 +1,5 @@
 <!-- Página de referencia: https://haciendainmobiliaria.cl/preguntas_frecuentes/-->
-<section class="container justify-content-center" style="padding-bottom: 5rem; padding-top: 18px;">
+<section class="container justify-content-center" style="padding-bottom: 5rem;">
 <div class="row">
     <h1 id="" class="text-center mt-5 mb-3">PREGUNTAS FRECUENTES</h1>
 </div>
