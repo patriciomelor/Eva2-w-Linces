@@ -9,7 +9,7 @@
     </div>
     </div>   
     <div class="img3">
-        <img src=src/media/ImagenParcelaNosotros.jpeg   width="100%" id="img_nosotros">
+        <img src=src/media/nosotros/nosotros.jpg   width="100%" id="img_nosotros">
     </div>    
     <!-- <div class="row flex-container text-center mt-5 mb-10" >
         <p>Nos distinguimos por nuestra amplia cartera de propiedades, que incluye una variedad de opciones para satisfacer los diferentes gustos y necesidades de nuestros clientes. Ya sea que estén buscando una acogedora casa familiar, un terreno para construir la casa de sus sueños o una propiedad de inversión, tenemos la solución perfecta para ellos.</p>

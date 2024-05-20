@@ -45,7 +45,7 @@
     <!--fin footer-->
 
     <!--JS-->
-    <?php include 'Js.php'; ?>
+    <?php include 'component/Js.php'; ?>
 
 
         

@@ -39,6 +39,7 @@ p {
 .img2 {
     padding: 10px;
     border-radius: 20px;
+    align-items: center;
 }
 
 .card {

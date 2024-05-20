@@ -10,7 +10,7 @@
   <!-- card1 -->
       <div class="col">
         <div class="card h-100" id="card_casa_p">
-            <img src=src\media\casa_en_parcela\parcela-en-venta-vegas-norte-3-jpg.jpeg class="card-img-left mt-3" alt="Quilmo">
+            <img src=src\media\casa_en_parcela\parc-casa-4.jpg class="card-img-left mt-3" alt="Quilmo">
          <div class="card-body">
             <div id="cardTitle"><h2 class="card-title">Parcela en Quilmo</h2>
             <p class="card-text"><small>Región de Ñuble</small></p></div>

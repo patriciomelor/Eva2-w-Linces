@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
+<nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#"><img src="src/media/logo.png" width="50%" alt=""></a>
+    <a class="navbar-brand" href="#"><img src="src/media/logo.png" Fixed top width="35%" alt=""></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -16,17 +16,14 @@
           <a class="nav-link" href="#Mision">Misión y Visión</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#soloterreno">Solo Terrenos</a>
+          <a class="nav-link" href="#soloterreno">Terrenos</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link" href="#parcelas">Parcelas</a>
+          <a class="nav-link" href="#casa_en_parcela">Casa en Parcela</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#casa_en_parcela">Casa en Parcelas</a>
-        </li>
-        <!-- <li class="nav-item">
           <a class="nav-link" href="#parcelas">Parcelas</a>
-S        </li> -->
+        </li>
         <li class="nav-item">
           <a class="nav-link" href="#preguntas_frecuentes">Q&A</a>
         </li>
