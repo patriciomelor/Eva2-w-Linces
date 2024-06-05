@@ -4,10 +4,10 @@
 
 <section class="container justify-content-center mb-5" >
 <div class="row">
-    <h1 class="text-center">CASA EN PARCELA</h1>
+    <h1 class="text-center" id="tClaro">CASA EN PARCELA</h1>
 </div>
 <div class="text-center mb-5">
-            <p>Imagina tener tu casa con un gran terreno, rodeado de naturaleza, lejos del bullicio de la ciudad. <br>
+            <p id="tClaro">Imagina tener tu casa con un gran terreno, rodeado de naturaleza, lejos del bullicio de la ciudad. <br>
             Tenemos las mejores opciones para que puedas llegar e inmediatamente disfrutar de la tranquilidad y la serenidad que solo la naturaleza puede ofrecer.</p>
 </div>
 <div class="row row-cols-1 row-cols-md-2" id="">

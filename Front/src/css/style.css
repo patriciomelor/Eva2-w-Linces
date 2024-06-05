@@ -122,8 +122,8 @@ nav li ul {
 }
 
 .padNos{
-    padding-right:200px;
-    padding-left:200px;
+    padding-right:100px;
+    padding-left:100px;
     padding-bottom: 40px;
 }
 
@@ -186,4 +186,17 @@ nav li ul {
 	bottom:20px;
 	right:20px;
     z-index: 999;
+}
+
+body {
+    display:flex;
+}
+
+#carrusel {
+    display:flex;
+    padding-top: 50px;
+}
+
+h1 {
+    font-size: 2.5rem!important;
 }

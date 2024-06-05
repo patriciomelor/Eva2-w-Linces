@@ -1,103 +1,92 @@
-<div class="flex-container">
-    <br><br>
-    <div class="row justify-content-center Fverde1" style="padding-bottom:50px">
-        <div class="text-center">
-            <h1 id="tClaro">TERRENOS</h1>
-        </div>
-        <div class="flex-container text-center">
-            <h3 class="padNos" id="tClaro" style="padding-top:40px">Explora parcelas ideales: espacio perfecto, entorno natural y cerca de comodidades. Tu rincón de paz está aquí. ¡Construye tu hogar en este paraíso hoy!</h3>
-        </div>
-        <!-- Primera tarjeta - Hacienda Pellín -->
-        <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
-            <div class="row g-0">
-                <div class=" terrenos col-md-4">
-                <img src= src/media/soloTerrenos/HaciendaPellin.jpeg class="terrenos img-fluid border-radius mt-4 img2" alt="...">
-                </div>
-                <div class="card-body col-md-8 p-4">
-                    <h2 class="card-title ">Hacienda Pellín</h2>
-                    <p class="card-text"><small class="text-body-secondary">Región del Maule</small></p>
-                    <p class="card-text">En el corazón del Maule, rodeada de árboles y cordillera encuentras el aire fresco de la naturaleza.</p>
-                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">3.500 UF</small></p>
-                </div>                
-            </div>
-        </div>
-        <!-- Segunda tarjeta - Vista Coronel-->
-        <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
-            <div class="row g-0">
-                <div class="col-md-4">
-                <img src=src/media/soloTerrenos/VistaCoronel.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
-                </div>
-                <div class="card-body col-md-8 p-4">
-                    <h2 class="card-title">Vista Coronel</h2>
-                    <p class="card-text"><small class="text-body-secondary">Región del Biobío</small></p>
-                    <p class="card-text">Disfruta la vitalidad de la naturaleza enfatizada por la brisa marina del Pacífico sur.</p>
-                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">5.500 UF</small></p>
-                </div>
-            </div>
-        </div>
-        <!-- Tercera tarjeta - Boldos de Duao-->
-        <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
-            <div class="row g-0">
-                <div class="col-md-4">
-                <img src=src/media/soloTerrenos/BoldosDeDuao.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
-                </div>
-                <div class="card-body col-md-8 p-4">
-                    <h2 class="card-title">Boldos de Duao</h2>
-                    <p class="card-text"><small class="text-body-secondary">Región del Biobío</small></p>
-                    <p class="card-text">El aroma la naturaleza enriquece los paisajes de ensueño que podrás disfrutar en Duao.</p>
-                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">3.500 UF</small></p>
-                </div>
-            </div>
-        </div>
-        <!-- Cuarta tarjeta - Valle Curacautín -->
-        <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
-            <div class="row g-0">
-                <div class="col-md-4">
-                <img src=src/media/soloTerrenos/ValleCuracautin.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
-                </div>
-                <div class="card-body col-md-8 p-4">
-                    <h2 class="card-title">Valle Curacautín</h2>
-                    <p class="card-text"><small class="text-body-secondary">Región de la Araucanía</small></p>
-                    <p class="card-text">Un vasto terreno ondulado, cubierto de hierba verde y árboles majestuosos, con arroyos serpenteantes.</p>
-                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">5.700 UF</small></p>
-                </div>
-            </div>
-        </div>
-        <!-- Quinta tarjeta - Vive Neltume-->
-        <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
-            <div class="row g-0">
-                <div class="col-md-4">
-                <img src=src/media/soloTerrenos/ViveNeltume.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
-                </div>
-                <div class="card-body col-md-8 p-4">
-                    <h2 class="card-title">Vive Neltume</h2>
-                    <p class="card-text"><small class="text-body-secondary">Región de los Ríos</small></p>
-                    <p class="card-text">Con montañas azules en la distancia, ofrece un refugio de belleza natural y serenidad.</p>
-                    <p class="card-text"><small class="text-body-secondary">5.000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">3.500 UF</small></p>
-                </div>
-            </div>
-        </div>
-        <!-- Sexta tarjeta - Alto Cancura-->
-        <div class="card m-3" style="max-width: 540px;" flex-wrap="wrap">
-            <div class="row g-0">
-                <div class="col-md-4">
-                <img src=src/media/soloTerrenos/AltoCancura.jpeg class="img-fluid border-radius mt-4 img2" alt="...">
-                </div>
-                <div class="card-body col-md-8 p-4">
-                    <h2 class="card-title">Alto Cancura</h2>
-                    <p class="card-text"><small class="text-body-secondary">Región de los Lagos</small></p>
-                    <p class="card-text">Un terreno tranquilo, adornado con árboles frondosos que se mecen suavemente con la brisa fresca de la montaña.</p>
-                    <p class="card-text"><small class=" text-muted">5000m2</small></p>
-                    <p class="card-text"><small class="text-body-secondary">4.000 UF</small></p>
-
-                </div>
-            </div>
-        </div>             
-    </div>
-    
+<section class="container justify-content-center mb-5" >
+<div class="row">
+    <h1 class="text-center" id="tClaro">TERRENOS</h1>
 </div>
+<div class="text-center mb-5">
+            <p id="tClaro">Explora parcelas ideales: espacio perfecto, entorno natural y cerca de comodidades. Tu rincón de paz está aquí. ¡Construye tu hogar en este paraíso hoy!</p>
+</div>
+<div class="row row-cols-1 row-cols-md-2" id="">
+  <!-- card1 -->
+      <div class="col">
+        <div class="card h-100" id="card_casa_p">
+            <img src=src/media/soloTerrenos/HaciendaPellin.jpeg class="card-img-left mt-4" alt="Quilmo">
+         <div class="card-body">
+            <div id="cardTitle"><h2 class="card-title">Hacienda Pellín</h2>
+            <p class="card-text"><small>Región del Maule</small></p></div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">
+                <span><br>Idílica ubicación, calidad de vida. aqui encontrarás parcelas con un tamaño promedio de 5000 metros cuadrados (Aproximadamente 0.5 hectáreas) el espacio suficiente para construir la casa que tanto esperaste.</span>
+              </li>
+              <li class="list-group-item" id="">
+                <span class="text-muted" id="texto1"><br>5.000m2</span>
+              </li>
+              <li class="list-group-item" id="">
+                <span class="text-muted" id="texto1"><br>3.500 UF</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- card2 -->
+      <div class="col">
+        <div class="card h-100" id="card_casa_p">
+            <img src=src/media/soloTerrenos/VistaCoronel.jpeg class="card-img-left mt-4" alt="Quilmo">
+         <div class="card-body">
+            <div id="cardTitle"><h2 class="card-title">Vista Coronel</h2>
+            <p class="card-text"><small>Región del Biobío</small></p></div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">
+                <span><br>Disfruta la vitalidad de la naturaleza enfatizada por la brisa marina del Pacífico sur.</span>
+              </li>
+              <li class="list-group-item" id="">
+                <span class="text-muted" id="texto1"><br>5.000m2</span>
+              </li>
+              <li class="list-group-item" id="">
+                <span class="text-muted" id="texto1"><br>4.800 UF</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- card3 -->
+      <div class="col">
+        <div class="card h-100" id="card_casa_p">
+            <img src=\src\media\soloTerrenos\BoldosDeDuao.jpg class="card-img-left mt-4" alt="Quilmo">
+         <div class="card-body">
+            <div id="cardTitle"><h2 class="card-title">Boldos de Duao</h2>
+            <p class="card-text"><small>Región del Biobío</small></p></div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">
+                <span><br>El aroma la naturaleza enriquece los paisajes de ensueño que podrás disfrutar en Duao.</span>
+              </li>
+              <li class="list-group-item" id="">
+                <span class="text-muted" id="texto1"><br>5.000m2</span>
+              </li>
+              <li class="list-group-item" id="">
+                <span class="text-muted" id="texto1"><br>5.600 UF</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- card4 -->
+      <div class="col">
+        <div class="card h-100" id="card_casa_p">
+            <img src=src/media/soloTerrenos/ValleCuracautin.jpeg class="card-img-left mt-4" alt="Quilmo">
+         <div class="card-body">
+            <div id="cardTitle"><h2 class="card-title">Valle Curacautín</h2>
+            <p class="card-text"><small>Región de la Araucanía</small></p></div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">
+                <span><br>Un vasto terreno ondulado, cubierto de hierba verde y árboles majestuosos, con arroyos serpenteantes.</span>
+              </li>
+              <li class="list-group-item" id="">
+                <span class="text-muted" id="texto1"><br>5.000m2</span>
+              </li>
+              <li class="list-group-item" id="">
+                <span class="text-muted" id="texto1"><br>5.500 UF</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
